@@ -17,7 +17,7 @@ struct videoygdisukai: View {
                     EmptyView()
                 }
             }
-        }.navigationBarTitle(Text("Massage:"))
+        }.navigationBarTitle(Text("Bookmark:"))
         }
         }
             

@@ -17,5 +17,5 @@ let Friends = [
     Hero(id: 8,photo: "Hu tao", name:"Who tao?", desription: "mabar yo bang GI sabi kali wkwkwkw"),
     Hero(id: 9,photo: "elaina", name:"Elaina", desription: "Belajar bikin web gan mumpung lagi mood nih"),
     Hero(id: 10,photo: "GI", name:"Zhongli", desription: "Are you tired life in this fucking world dude?"),
-    Hero(id: 10,photo: "Akame", name:"Akame", desription: "Bro g lelah belajar mulu lu tidur bego,istirahat dulu")
+    Hero(id: 11,photo: "Noelle", name:"Noel", desription: "Bro g lelah belajar mulu lu tidur bego,istirahat dulu")
 ]
